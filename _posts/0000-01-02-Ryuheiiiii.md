@@ -5,3 +5,4 @@ title: "２枚目のスライドにようこそ！"
 a
 g
 git checkout master
+git push github
